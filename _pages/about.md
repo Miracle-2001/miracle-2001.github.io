@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year phd student in THUIR, Department of Computer Science and Technology in Tshinghua University, Beijing, China. My supervisors are Prof.Yiqun Liu and Prof.Qingyao Ai. My major research interests are about AIGC, brain machine interface and etc.
+I am now a first year phd student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tshinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisors are [Prof.Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and [Prof.Qingyao Ai](http://www.thuir.cn/group/~aiqy/). My major research interests are about AIGC, brain machine interface and etc.
 
 A data-driven personal website
 ======
