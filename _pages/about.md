@@ -11,13 +11,21 @@ I am now a first year phd student in [THUIR](http://www.thuir.cn/), [Department 
 
 Education
 ======
+* [08.2020-07.2024] B.S. student, School of Computer Science and Technology, Beijing Jiaotong University, China.
+* [08.2024-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 
+Publications
+======
+* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, Xiao Xie, Liu Yiqun. GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network (**Ubicomp 2024**, workshop). [Preprint Version](https://arxiv.org/pdf/2309.15515) [Code](https://github.com/Miracle-2001/GNN4EEG)
 
-Publication
+Honors and Awards
 ======
 
-Honor and Awards
-======
+* 2023\. Outstanding Grade Scholarship, Beijing Jiaotong University. (Top 0.2%)
+* 2021, 2022, 2023\. China National Scholarship, Chinese Government.
+* 2023\. Gold Medal in the China International College Students’ “Internet+” Innovation and Entrepreneurship Competition,  China International College Students’ “Internet+” Innovation and Entrepreneurship Competition Committee.
+* 2021\. Sivler Medal in ICPC Asia-East Continent Final Contest, ICPC Foundation.
+* 2019\. Silver Medal in National Olympics in Information, China Computer Federation.
 
 <!--
 A data-driven personal website
