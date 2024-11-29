@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, Xiao Xie, Liu Yiqun. GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network (**Ubicomp 2024**, workshop). [Preprint Version](https://arxiv.org/pdf/2309.15515) [Code](https://github.com/Miracle-2001/GNN4EEG)
+* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, Xiao Xie, Liu Yiqun. GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network (**Ubicomp 2024**, workshop, CCF-A). [Preprint Version](https://arxiv.org/pdf/2309.15515) [Code](https://github.com/Miracle-2001/GNN4EEG)
 
 Honors and Awards
 ======
