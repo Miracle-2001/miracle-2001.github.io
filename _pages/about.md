@@ -16,7 +16,12 @@ Education
 
 Publications
 ======
-* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, Xiao Xie, Liu Yiqun. GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network (**Ubicomp 2024**, workshop, CCF-A). [Preprint Version](https://arxiv.org/pdf/2309.15515) [Code](https://github.com/Miracle-2001/GNN4EEG)
+* ***Kaiyuan Zhang***, Jiaqi Li, Yueyue Wu, et al.  Chinese Court Simulation with LLM-Based Agent System (**ACL 2026**, long paper, findings, CCF-A). [Preprint Version](https://arxiv.org/pdf/2508.17322?) [Code](https://github.com/Miracle-2001/SimCourt)
+* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, et al. A Pretraining Model for Cross-subject Emotion Recognition from EEG Signals (**CCIR 2024**, long paper, best paper candidate). [Code](https://github.com/Miracle-2001/DAPN)
+* ***Kaiyuan Zhang***, Ziyi Ye, Qingyao Ai, et al. GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network (**Ubicomp 2024**, workshop, CCF-A). [Preprint Version](https://arxiv.org/pdf/2309.15515) [Code](https://github.com/Miracle-2001/GNN4EEG)
+
+
+
 
 Honors and Awards
 ======
